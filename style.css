@@ -1,0 +1,27 @@
+ h1{
+    font-size: 50px;
+    text-decoration: underline;
+    color: black
+    
+}
+nav{
+    border: solid
+}
+nav a.selected{
+    font-size: 1.5rem;
+}
+p2{
+    display:flex;
+    display: inline-flex;
+}
+.a{
+    font-size: 30px;
+}
+
+.b{
+    font-size: 10px;
+}
+
+.c{
+    font-size: 20px;
+}
